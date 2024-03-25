@@ -1,0 +1,7 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"welcome": "Tervetuloa {name}!",
+	"about_path": "/tietoa",
+	"about": "Tietoa meistä",
+	"back_to_home": "Takaisin etusivulle"
+}
